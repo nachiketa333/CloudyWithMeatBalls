@@ -40,7 +40,7 @@ class InterfaceController: WKInterfaceController {
                 print("Error when getting API data")
                 return
             }
-            // -- if no errors, then keep going
+          
             
             print(apiData)
             
